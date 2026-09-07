@@ -27,3 +27,7 @@ Speichere die Änderung mit einem neuen Commit.
 Frage: Wie viele Commits hast du jetzt? 
 
 Antwort: ____________________ 
+
+## Meine Änderung 
+ 
+Diese Änderung habe ich in meinem eigenen Branch erstellt.
